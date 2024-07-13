@@ -1,9 +1,10 @@
 ## ℹ️ Info
 1) Compose
 2) Clean Architecture
-3) Retrofit
-4) Hilt
-5) Kotlin Coroutines
+3) MVVM
+4) Retrofit
+5) Hilt
+6) Kotlin Coroutines
 
 ## Clean Architecture
 Clean architecture emphasizes the separation of concerns between different components of the system. This means that the domain logic and business rules should be separated from the technical details and infrastructure concerns of the system
